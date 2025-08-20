@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-28)
+## Unreleased (2025-08-20)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`afca27e`](https://github.com/stdlib-js/stdlib/commit/afca27e5a12962febf70b6de36e2cea94295b16b) - **docs:** fix example code _(by Philipp Burckhardt)_
 -   [`f3bab2e`](https://github.com/stdlib-js/stdlib/commit/f3bab2e7582cd325e0ef3ff8db976d43f330e417) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`61bd08c`](https://github.com/stdlib-js/stdlib/commit/61bd08ca8cc501cb6c4157fbc84251a594e1b148) - **feat:** add `stats/strided/nanmskmin` _(by Gururaj Gurram)_
 
@@ -35,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Gururaj Gurram
+-   Philipp Burckhardt
 
 </section>
 
